@@ -2,6 +2,7 @@ baseURL = "https://hyoromo.github.io/apps/"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
+googleAnalytics = 'G-HDQZZ3YLN1'
 
 defaultContentLanguage = "en"
 metaDataFormat = "yaml"
