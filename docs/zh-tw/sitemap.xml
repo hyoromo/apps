@@ -82,5 +82,32 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/apps/zh-tw/tags/"
                 />
+  </url><url>
+    <loc>https://hyoromo.github.io/apps/zh-tw/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyoromo.github.io/apps/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://hyoromo.github.io/apps/jp/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/apps/ko/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hyoromo.github.io/apps/zh/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hyoromo.github.io/apps/zh-tw/privacy-policy/"
+                />
   </url>
 </urlset>

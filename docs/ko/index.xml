@@ -6,5 +6,16 @@
     <description>Recent content in index on Apps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hyoromo.github.io/apps/ko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>개인 정보 보호 정책</title>
+      <link>https://hyoromo.github.io/apps/ko/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/apps/ko/privacy-policy/</guid>
+      <description>hyoromo는 다음과 같이 개인정보 보호방침을 정하여 개인정보 보호 체제를 구축하고, 개인정보 보호의 중요성을 인식하고 철저하게 대처하여 개인정보 보호를 추진하겠습니다.
+개인정보의 관리 hyoromo는 고객의 개인정보를 정확하고 최신의 상태로 유지하고, 개인정보에 대한 부정 액세스, 분실, 파손, 훼손, 변조, 누설 등을 방지하기 위해 보안 시스템의 유지, 관리 체제의 정비, 직원 교육의 철저 등 필요한 조치를 취하고, 안전 대책을 실시하여 개인정보를 엄격하게 관리합니다. 합니다.
+개인정보의 이용 목적 고객님으로부터 받은 개인정보는 hyoromo로부터의 연락이나 업무 안내 및 질문에 대한 답변으로 이메일/SNS상의 교류에 이용합니다.</description>
+    </item>
+    
   </channel>
 </rss>
