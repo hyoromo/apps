@@ -53,6 +53,11 @@ name = "<i class='fas fa-coffee'></i> Donation"
 url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
 weight = 12
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> Privacy Policy"
+url = "https://hyoromo.github.io/apps/privacy-policy/"
+weight = 13
+
 
 [Languages.jp]
 title = "Apps"
@@ -63,6 +68,11 @@ languageName = "日本語"
 name = "<i class='fas fa-coffee'></i> 寄付"
 url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
 weight = 12
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> プライバシーポリシー"
+url = "https://hyoromo.github.io/apps/jp/privacy-policy/"
+weight = 13
 
 
 [Languages.zh]
@@ -75,6 +85,11 @@ name = "<i class='fas fa-coffee'></i> 捐赠"
 url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
 weight = 12
 
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 隐私政策"
+url = "https://hyoromo.github.io/apps/zh/privacy-policy/"
+weight = 13
+
 
 [Languages.zh-TW]
 title = "Apps"
@@ -86,6 +101,11 @@ name = "<i class='fas fa-coffee'></i> 捐贈"
 url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
 weight = 12
 
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 隱私政策"
+url = "https://hyoromo.github.io/apps/zh-tw/privacy-policy/"
+weight = 13
+
 
 [Languages.ko]
 title = "Apps"
@@ -96,3 +116,8 @@ languageName = "한국어"
 name = "<i class='fas fa-coffee'></i> 기부"
 url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
 weight = 12
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 개인 정보 보호 정책"
+url = "https://hyoromo.github.io/apps/ko/privacy-policy/"
+weight = 13
