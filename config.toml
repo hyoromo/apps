@@ -58,6 +58,16 @@ name = "<i class='fas fa-sticky-note'></i> Privacy Policy"
 url = "https://hyoromo.github.io/apps/privacy-policy/"
 weight = 13
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other iOS apps"
+url = "https://apps.apple.com/us/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other Android apps"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.jp]
 title = "Apps"
@@ -73,6 +83,16 @@ weight = 12
 name = "<i class='fas fa-sticky-note'></i> プライバシーポリシー"
 url = "https://hyoromo.github.io/apps/jp/privacy-policy/"
 weight = 13
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のiOSアプリ"
+url = "https://apps.apple.com/jp/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のAndroidアプリ"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
 
 
 [Languages.zh]
@@ -90,6 +110,16 @@ name = "<i class='fas fa-sticky-note'></i> 隐私政策"
 url = "https://hyoromo.github.io/apps/zh/privacy-policy/"
 weight = 13
 
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他iOS应用"
+url = "https://apps.apple.com/cn/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他Android应用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.zh-TW]
 title = "Apps"
@@ -106,6 +136,16 @@ name = "<i class='fas fa-sticky-note'></i> 隱私政策"
 url = "https://hyoromo.github.io/apps/zh-tw/privacy-policy/"
 weight = 13
 
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他iOS應用"
+url = "https://apps.apple.com/tw/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他Android應用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.ko]
 title = "Apps"
@@ -121,3 +161,13 @@ weight = 12
 name = "<i class='fas fa-sticky-note'></i> 개인 정보 보호 정책"
 url = "https://hyoromo.github.io/apps/ko/privacy-policy/"
 weight = 13
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 다른 iOS 앱"
+url = "https://apps.apple.com/kr/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 다른 Android 앱"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
